@@ -28,3 +28,10 @@ Virtual Intern at CodSoft:
 
 4. End the program:
    - Return 0 to indicate successful program execution.
+  
+
+# Task3: Student Grading System:
+1. Define a struct `GradeSystem` to store student information.
+2. Prompt the user to enter student names and scores, and store them in a vector of `GradeSystem` instances.
+3. Display the results by iterating over the vector and calculating the average, highest, and lowest scores for each student.
+4. Terminate the program.
